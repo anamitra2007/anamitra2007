@@ -1,4 +1,11 @@
+# 💫 Hi 👋, I'm Anamitra Laha
+**An aspiring Full-Stack Developer || ML Enthusiast**
 
+Email Me 👉 ✉️ **anamitra.laha2007@gamil.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Smart and sustainable plastic Waste detection and management system
+- 🌱 **I’m currently learning:** FastAPI, Backend Development
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anamitra_laha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anamitra-laha-7ba0b9386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamitra.laha2007@gmail.com) 
 
